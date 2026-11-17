@@ -2,7 +2,7 @@
 
 An end-to-end analysis of 600 retail sales transactions (2025) using **Excel, SQL (Oracle) and Power BI**. The goal was to find which products, regions and months perform best, where profit is low, and what the business could improve.
 
-![Dashboard](images/dashboard_overview.png)
+
 
 ## Business questions
 
